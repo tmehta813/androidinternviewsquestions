@@ -46,7 +46,7 @@
 * What is IPC inter process communication 
 * What is memory leak, How do you detect memory leaks
 
-### Al these links can be found in a single text file
+### Al these links can be found in a single text file under main branch
 * If you find these useful, Don't forget to drop a star 
 * All the best for your interviews :) 
 
