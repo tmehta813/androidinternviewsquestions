@@ -1,5 +1,5 @@
-# Android Internviews Questions, that all you need
-## It covers 90% of android interviews questions
+# Android Interviews Questions, that all you need
+## It covers at-least 90%
 
 ### These questions were asked by following companies:
 * Flipkart
@@ -46,6 +46,7 @@
 * What is IPC inter process communication 
 * What is memory leak, How do you detect memory leaks
 
-### These questions link can be found on a single text file in main branch, Just copy the links in webbrowser.
-* If you find these questions useful, feel feel to drop star
+### Al these links can be found in a single text file
+* If you find these useful, Don't forget to drop a star 
+* All the best for your interviews :) 
 
