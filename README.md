@@ -19,3 +19,27 @@
 * What is IPC inter process communication 
 * What is memory leak, How do you detect memory leaks
 
+### These questions were asked from me by following companies:
+* Flipkart
+* Swiggy
+* Delieveryhero
+* Foxcorporation
+* Zomato
+* Nykaa
+* Paytm 
+* Airtelpaymentsbank 
+* Microsoft
+* Facebook
+* Nagarro
+* Phonepe
+* Uber
+* Intuit
+* coindcx
+* Snapdeal
+* Grofers(Blinkit)
+* Healthifyme
+* Inmobi
+* Housing(#proptiger)
+* Hotstar
+* Gojek
+* Curefit
