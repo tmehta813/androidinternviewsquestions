@@ -16,4 +16,5 @@
 * [What are executorServices ?  What is thread pool?](https://stackoverflow.com/questions/16161941/executorservice-vs-threadpoolexecutor-using-linkedblockingqueue)
 * [Difference between intent and intent-filter](https://stackoverflow.com/questions/5919865/difference-between-intent-and-intenfilter-in-android#:~:text=An%20intent%20is%20an%20object%20that%20can%20hold%20the%20os,os%20or%20other%20app%20activities)
 * [What is work manager?,How it is difference from Alarm manager?](https://stackoverflow.com/questions/50403013/asynchronous-worker-in-android-workmanager)
+* [Difference between mock and spy](https://www.linkedin.com/posts/activity-6982552390084268032-95BE)
 * What is IPC(inter process communication)? how it is achieved -> no link
