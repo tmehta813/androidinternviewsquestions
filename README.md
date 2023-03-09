@@ -1,52 +1,19 @@
-# Android Interviews Questions, that all you need
-## It covers at-least 90%
+## Product Based Companies Interview Questions
+This repository contains a book link that compiles interview questions asked by product based companies, with a focus on Android developers positions. The questions were collected from various sources, including online forums, blogs, and personal experiences.
 
-### These questions were asked by following companies:
-* Flipkart
-* Swiggy
-* Delieveryhero
-* Foxcorporation
-* Zomato
-* Nykaa
-* Paytm 
-* Airtelpaymentsbank 
-* Microsoft
-* Facebook
-* Nagarro
-* Phonepe
-* Uber
-* Intuit
-* coindcx
-* Snapdeal
-* Grofers(Blinkit)
-* Healthifyme
-* Inmobi
-* Housing(#proptiger)
-* Hotstar
-* Gojek
-* Curefit
-* Paypal
+### Link
+### https://www.amazon.in/dp/B0BXLWD61R
 
-### Includes:
-* Interview questions on Kotlin
-* Handler
-* Handler Thread
-* Activity & Fragment Life cycles
-* Internal working of view model
-* App security questions
-* Life cycle of a view
-* content provider related questions
-* Difference between serializable and parcelable 
-* Different types of launch mode
-* Clean Architecture approach, Explain different types of layer -> data, domain and presentation 
-* What are executor services, What are thread pools
-* What is exported, process and signature flag in android manifest
-* Difference between intent and intent filters
-* What is work manager, how it works internally
-* What is IPC inter process communication 
-* What is memory leak, How do you detect memory leaks
+## Purpose
+The goal of this project is to help job seekers prepare for interviews with product based companies. By studying the questions in this book, candidates can get a sense of the types of questions they might be asked and the skills they need to demonstrate in order to succeed in the interview process.
 
-### Al these links can be found in a single text file under main branch
-* If you find these useful, Don't forget to drop a star. :)
-* All the best for your interviews........ 
+## Contents
+Kotlin Interview questions
+Android Interview questions
+Machine Coding round tips and tricks
+Design problem
 
+
+
+### Disclaimer
+This book is not affiliated with any product based company or organization. The questions in this book are based on publicly available information and personal experiences, and may not reflect the actual interview process used by any specific company. Use this book as a supplement to your interview preparation, but do not rely solely on it to prepare for your interviews.
